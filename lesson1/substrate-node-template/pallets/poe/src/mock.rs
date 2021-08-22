@@ -9,6 +9,7 @@ use frame_system as system;
 type UncheckedExtrinsic = frame_system::mocking::MockUncheckedExtrinsic<Test>;
 type Block = frame_system::mocking::MockBlock<Test>;
 
+// 创建一个TEST runtime
 frame_support::construct_runtime!(
 	pub enum Test where
 		Block = Block,
@@ -26,6 +27,7 @@ parameter_types! {
 	pub const StringLimit: u32 = 5;
 }
 
+// 实现系统模块
 impl system::Config for Test {
 	type BaseCallFilter = ();
 	type BlockWeights = ();
@@ -56,6 +58,7 @@ impl pallet_poe::Config for Test {
 	type StringLimit = StringLimit;
 }
 
+// 构造一个测试用的环境，并初始化
 pub fn new_test_ext() -> sp_io::TestExternalities {
 	system::GenesisConfig::default().build_storage::<Test>().unwrap().into()
 }
