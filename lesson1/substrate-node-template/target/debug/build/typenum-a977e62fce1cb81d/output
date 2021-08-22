@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/cyqAdmin/substrate/substrate-advance-lession/lesson1/substrate-node-template/target/debug/build/typenum-a977e62fce1cb81d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/cyqAdmin/substrate/substrate-advance-lession/lesson1/substrate-node-template/target/debug/build/typenum-a977e62fce1cb81d/out/op.rs

@@ -1,0 +1,9 @@
+/Users/cyqAdmin/substrate/substrate-advance-lession/lesson1/substrate-node-template/target/debug/deps/libparity_scale_codec_derive-1fe045d7493609c8.dylib: /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/lib.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/decode.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/encode.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/utils.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/trait_bounds.rs
+
+/Users/cyqAdmin/substrate/substrate-advance-lession/lesson1/substrate-node-template/target/debug/deps/parity_scale_codec_derive-1fe045d7493609c8.d: /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/lib.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/decode.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/encode.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/utils.rs /Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/trait_bounds.rs
+
+/Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/lib.rs:
+/Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/decode.rs:
+/Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/encode.rs:
+/Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/utils.rs:
+/Users/cyqAdmin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-2.0.0/src/trait_bounds.rs:
